@@ -1,0 +1,67 @@
+{
+  "totalFilteredListings": 6,
+  "avgPricePerRoom": [
+    {
+      "id": "27312690",
+      "totalPrice": 2982,
+      "roomNum": 16,
+      "avgPricePerRoom": "186.38"
+    },
+    {
+      "id": "37220516",
+      "totalPrice": 1195,
+      "roomNum": 13,
+      "avgPricePerRoom": "91.92"
+    },
+    {
+      "id": "45609029",
+      "totalPrice": 1100,
+      "roomNum": 12,
+      "avgPricePerRoom": "91.67"
+    },
+    {
+      "id": "3761446",
+      "totalPrice": 1429,
+      "roomNum": 12,
+      "avgPricePerRoom": "119.08"
+    },
+    {
+      "id": "8119395",
+      "totalPrice": 1795,
+      "roomNum": 16,
+      "avgPricePerRoom": "112.19"
+    },
+    {
+      "id": "22555972",
+      "totalPrice": 1795,
+      "roomNum": 16,
+      "avgPricePerRoom": "112.19"
+    }
+  ],
+  "hostRankings": [
+    {
+      "host": "3442905",
+      "count": 1
+    },
+    {
+      "host": "8056326",
+      "count": 1
+    },
+    {
+      "host": "13682309",
+      "count": 1
+    },
+    {
+      "host": "128030152",
+      "count": 1
+    },
+    {
+      "host": "159355723",
+      "count": 1
+    },
+    {
+      "host": "205780984",
+      "count": 1
+    }
+  ]
+}
