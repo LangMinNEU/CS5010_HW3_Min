@@ -1,13 +1,14 @@
 {
   "name": "cs5010_hw3_min",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "main.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Lang Min",
+  "license": "MIT",
   "description": "",
   "devDependencies": {
     "@eslint/js": "^9.21.0",
@@ -15,5 +16,8 @@
     "eslint-config-prettier": "^10.0.1",
     "globals": "^16.0.0",
     "prettier": "^3.5.2"
+  },
+  "dependencies": {
+    "csv-parse": "^5.6.0"
   }
 }
